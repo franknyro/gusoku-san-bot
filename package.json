@@ -1,0 +1,22 @@
+{
+  "name": "gusoku-san-bot",
+  "version": "0.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franknyro/gusoku-san-bot.git"
+  },
+  "author": "franknyro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franknyro/gusoku-san-bot/issues"
+  },
+  "homepage": "https://github.com/franknyro/gusoku-san-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
